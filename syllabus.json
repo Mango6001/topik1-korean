@@ -1,0 +1,784 @@
+{
+  "course": "TOPIK 1 Korean Language Course",
+  "total_days": 60,
+  "level": "Beginner (knows Hangul basics)",
+  "session_duration": "15-20 minutes",
+  "units": [
+    {
+      "unit": 1,
+      "title": "Greetings & Introductions",
+      "days": [
+        {
+          "day": 1,
+          "topic": "Basic Greetings",
+          "vocabulary": [
+            {"word": "안녕하세요", "romanization": "annyeonghaseyo", "meaning": "Hello (formal)"},
+            {"word": "안녕", "romanization": "annyeong", "meaning": "Hi / Bye (informal)"},
+            {"word": "감사합니다", "romanization": "gamsahamnida", "meaning": "Thank you (formal)"},
+            {"word": "고마워요", "romanization": "gomawoyo", "meaning": "Thank you (informal)"},
+            {"word": "죄송합니다", "romanization": "joesonghamnida", "meaning": "I'm sorry (formal)"}
+          ],
+          "grammar": {
+            "pattern": "이에요 / 예요 (is/am/are)",
+            "explanation": "Used to say what something is. Use 이에요 after a consonant, 예요 after a vowel.",
+            "examples": [
+              {"korean": "학생이에요.", "meaning": "I am a student."},
+              {"korean": "선생님이에요.", "meaning": "I am a teacher."},
+              {"korean": "의사예요.", "meaning": "I am a doctor."}
+            ]
+          },
+          "reading": {
+            "title": "First Meeting",
+            "text": "안녕하세요! 저는 민준이에요. 학생이에요. 반갑습니다!",
+            "translation": "Hello! I am Minjun. I am a student. Nice to meet you!"
+          },
+          "homework": [
+            "Write 3 sentences introducing yourself using 이에요/예요",
+            "Practice saying 안녕하세요, 감사합니다, 죄송합니다 out loud 5 times each",
+            "Translate: 'I am a student. Nice to meet you!'"
+          ]
+        },
+        {
+          "day": 2,
+          "topic": "Introducing Yourself",
+          "vocabulary": [
+            {"word": "이름", "romanization": "ireum", "meaning": "name"},
+            {"word": "저", "romanization": "jeo", "meaning": "I / me (formal)"},
+            {"word": "나", "romanization": "na", "meaning": "I / me (informal)"},
+            {"word": "반갑습니다", "romanization": "bangapseumnida", "meaning": "Nice to meet you"},
+            {"word": "나라", "romanization": "nara", "meaning": "country"}
+          ],
+          "grammar": {
+            "pattern": "은/는 (topic marker)",
+            "explanation": "Marks the topic of a sentence. Use 은 after a consonant, 는 after a vowel.",
+            "examples": [
+              {"korean": "저는 학생이에요.", "meaning": "I am a student."},
+              {"korean": "이름은 민준이에요.", "meaning": "My name is Minjun."},
+              {"korean": "저는 베트남 사람이에요.", "meaning": "I am Vietnamese."}
+            ]
+          },
+          "reading": {
+            "title": "Hello, I'm Sujin",
+            "text": "안녕하세요. 저는 수진이에요. 저는 한국 사람이에요. 이름은 수진이에요. 반갑습니다!",
+            "translation": "Hello. I am Sujin. I am Korean. My name is Sujin. Nice to meet you!"
+          },
+          "homework": [
+            "Write your full self-introduction in Korean (name, nationality, occupation)",
+            "Use 은/는 in at least 3 sentences",
+            "Translate: 'My name is ___ . I am from ___. Nice to meet you!'"
+          ]
+        },
+        {
+          "day": 3,
+          "topic": "Numbers 1–10 (Native Korean)",
+          "vocabulary": [
+            {"word": "하나", "romanization": "hana", "meaning": "1"},
+            {"word": "둘", "romanization": "dul", "meaning": "2"},
+            {"word": "셋", "romanization": "set", "meaning": "3"},
+            {"word": "넷", "romanization": "net", "meaning": "4"},
+            {"word": "다섯", "romanization": "daseot", "meaning": "5"},
+            {"word": "여섯", "romanization": "yeoseot", "meaning": "6"},
+            {"word": "일곱", "romanization": "ilgop", "meaning": "7"},
+            {"word": "여덟", "romanization": "yeodeol", "meaning": "8"},
+            {"word": "아홉", "romanization": "ahop", "meaning": "9"},
+            {"word": "열", "romanization": "yeol", "meaning": "10"}
+          ],
+          "grammar": {
+            "pattern": "이/가 있어요 / 없어요 (have / don't have)",
+            "explanation": "이 있어요 / 없어요 is used to express existence or possession. 이/가 is the subject marker.",
+            "examples": [
+              {"korean": "책이 있어요.", "meaning": "I have a book. / There is a book."},
+              {"korean": "시간이 없어요.", "meaning": "I don't have time."},
+              {"korean": "친구가 있어요.", "meaning": "I have a friend."}
+            ]
+          },
+          "reading": {
+            "title": "How Many?",
+            "text": "저는 책이 다섯 개 있어요. 친구가 셋 있어요. 연필이 없어요.",
+            "translation": "I have five books. I have three friends. I don't have a pencil."
+          },
+          "homework": [
+            "Count objects around you in Korean (1–10)",
+            "Write 3 sentences using 있어요 and 2 using 없어요",
+            "Translate: 'I have two apples. I don't have a pen.'"
+          ]
+        },
+        {
+          "day": 4,
+          "topic": "Numbers (Sino-Korean) & Dates",
+          "vocabulary": [
+            {"word": "일", "romanization": "il", "meaning": "1"},
+            {"word": "이", "romanization": "i", "meaning": "2"},
+            {"word": "삼", "romanization": "sam", "meaning": "3"},
+            {"word": "사", "romanization": "sa", "meaning": "4"},
+            {"word": "오", "romanization": "o", "meaning": "5"},
+            {"word": "월", "romanization": "wol", "meaning": "month"},
+            {"word": "일", "romanization": "il", "meaning": "day (date)"},
+            {"word": "년", "romanization": "nyeon", "meaning": "year"}
+          ],
+          "grammar": {
+            "pattern": "월/일 — Expressing dates",
+            "explanation": "Use Sino-Korean numbers for dates. Month = 숫자 + 월, Day = 숫자 + 일",
+            "examples": [
+              {"korean": "오늘은 오 월 이십 일이에요.", "meaning": "Today is May 20th."},
+              {"korean": "생일이 삼 월 삼 일이에요.", "meaning": "My birthday is March 3rd."},
+              {"korean": "시험은 육 월 일 일이에요.", "meaning": "The exam is June 1st."}
+            ]
+          },
+          "reading": {
+            "title": "My Birthday",
+            "text": "제 생일은 팔 월 십오 일이에요. 오늘은 오 월 이십 일이에요. 생일이 아직 멀어요.",
+            "translation": "My birthday is August 15th. Today is May 20th. My birthday is still far away."
+          },
+          "homework": [
+            "Write today's date in Korean",
+            "Write your birthday in Korean",
+            "Practice counting from 1–20 in Sino-Korean numbers"
+          ]
+        },
+        {
+          "day": 5,
+          "topic": "Family Members",
+          "vocabulary": [
+            {"word": "가족", "romanization": "gajok", "meaning": "family"},
+            {"word": "어머니", "romanization": "eomeoni", "meaning": "mother"},
+            {"word": "아버지", "romanization": "abeoji", "meaning": "father"},
+            {"word": "형/오빠", "romanization": "hyeong/oppa", "meaning": "older brother (male/female speaker)"},
+            {"word": "누나/언니", "romanization": "nuna/eonni", "meaning": "older sister (male/female speaker)"},
+            {"word": "동생", "romanization": "dongsaeng", "meaning": "younger sibling"}
+          ],
+          "grammar": {
+            "pattern": "이/가 (subject marker)",
+            "explanation": "Marks the subject of a sentence. Use 이 after consonant, 가 after vowel.",
+            "examples": [
+              {"korean": "어머니가 선생님이에요.", "meaning": "My mother is a teacher."},
+              {"korean": "동생이 학생이에요.", "meaning": "My younger sibling is a student."},
+              {"korean": "아버지가 의사예요.", "meaning": "My father is a doctor."}
+            ]
+          },
+          "reading": {
+            "title": "My Family",
+            "text": "저는 가족이 네 명이에요. 아버지, 어머니, 동생, 그리고 저예요. 아버지는 의사예요. 어머니는 선생님이에요.",
+            "translation": "I have four family members. Father, mother, younger sibling, and me. My father is a doctor. My mother is a teacher."
+          },
+          "homework": [
+            "Describe your family in 4–5 Korean sentences",
+            "Use both 이/가 and 은/는 markers",
+            "Translate: 'My older sister is a student. My father is an office worker.'"
+          ]
+        },
+        {
+          "day": 6,
+          "topic": "Daily Routine Verbs",
+          "vocabulary": [
+            {"word": "일어나다", "romanization": "ireonada", "meaning": "to wake up"},
+            {"word": "먹다", "romanization": "meokda", "meaning": "to eat"},
+            {"word": "마시다", "romanization": "masida", "meaning": "to drink"},
+            {"word": "자다", "romanization": "jada", "meaning": "to sleep"},
+            {"word": "공부하다", "romanization": "gongbuhada", "meaning": "to study"}
+          ],
+          "grammar": {
+            "pattern": "아요/어요 (present tense verb ending)",
+            "explanation": "Convert verb stems to present tense. Vowel ㅏ or ㅗ → 아요. Other vowels → 어요. 하다 verbs → 해요.",
+            "examples": [
+              {"korean": "밥을 먹어요.", "meaning": "I eat rice / I am eating rice."},
+              {"korean": "물을 마셔요.", "meaning": "I drink water."},
+              {"korean": "한국어를 공부해요.", "meaning": "I study Korean."}
+            ]
+          },
+          "reading": {
+            "title": "My Day",
+            "text": "저는 아침 일곱 시에 일어나요. 밥을 먹어요. 그리고 학교에 가요. 한국어를 공부해요. 밤 열 시에 자요.",
+            "translation": "I wake up at 7 AM. I eat breakfast. Then I go to school. I study Korean. I sleep at 10 PM."
+          },
+          "homework": [
+            "Describe your daily routine in Korean using 5 verbs",
+            "Conjugate these verbs into 아요/어요: 읽다 (read), 쓰다 (write), 듣다 (listen)",
+            "Translate: 'I wake up at 6. I eat breakfast and go to work.'"
+          ]
+        },
+        {
+          "day": 7,
+          "topic": "Week 1 Review & Practice",
+          "vocabulary": [
+            {"word": "복습", "romanization": "bokseup", "meaning": "review"},
+            {"word": "시험", "romanization": "siheom", "meaning": "test / exam"},
+            {"word": "연습", "romanization": "yeonseup", "meaning": "practice"},
+            {"word": "질문", "romanization": "jilmun", "meaning": "question"},
+            {"word": "대답", "romanization": "daedap", "meaning": "answer"}
+          ],
+          "grammar": {
+            "pattern": "Review: 이에요/예요, 은/는, 이/가, 있어요/없어요, 아요/어요",
+            "explanation": "Today we review all patterns from Week 1. Focus on when to use each particle and verb ending.",
+            "examples": [
+              {"korean": "저는 학생이에요. 책이 있어요. 매일 공부해요.", "meaning": "I am a student. I have a book. I study every day."},
+              {"korean": "어머니는 선생님이에요. 지금 가르쳐요.", "meaning": "My mother is a teacher. She is teaching now."},
+              {"korean": "친구가 없어요. 혼자 공부해요.", "meaning": "I don't have a friend. I study alone."}
+            ]
+          },
+          "reading": {
+            "title": "About Me (Full Paragraph)",
+            "text": "안녕하세요! 저는 민수예요. 학생이에요. 가족은 세 명이에요. 매일 한국어를 공부해요. 한국어가 재미있어요!",
+            "translation": "Hello! I am Minsu. I am a student. My family has three members. I study Korean every day. Korean is fun!"
+          },
+          "homework": [
+            "Write a full paragraph about yourself (min. 6 sentences) using all Week 1 grammar",
+            "Mini quiz: translate 5 sentences from English to Korean",
+            "Review all 35 vocabulary words from Days 1–6"
+          ]
+        }
+      ]
+    },
+    {
+      "unit": 2,
+      "title": "Places & Directions",
+      "days": [
+        {
+          "day": 8,
+          "topic": "Places in the City",
+          "vocabulary": [
+            {"word": "학교", "romanization": "hakgyo", "meaning": "school"},
+            {"word": "병원", "romanization": "byeongwon", "meaning": "hospital"},
+            {"word": "은행", "romanization": "eunhaeng", "meaning": "bank"},
+            {"word": "마트", "romanization": "mateu", "meaning": "supermarket"},
+            {"word": "카페", "romanization": "kape", "meaning": "cafe"}
+          ],
+          "grammar": {
+            "pattern": "에 가요 (going to a place)",
+            "explanation": "에 is used to indicate destination. Subject + place + 에 + 가요 = going to a place.",
+            "examples": [
+              {"korean": "학교에 가요.", "meaning": "I go to school."},
+              {"korean": "병원에 가요.", "meaning": "I go to the hospital."},
+              {"korean": "카페에 가요.", "meaning": "I go to the cafe."}
+            ]
+          },
+          "reading": {
+            "title": "Where Are You Going?",
+            "text": "오늘 어디에 가요? 저는 은행에 가요. 그 다음에 마트에 가요. 마지막으로 카페에 가요.",
+            "translation": "Where are you going today? I am going to the bank. Then I go to the supermarket. Finally I go to the cafe."
+          },
+          "homework": [
+            "Write your plans for tomorrow using 에 가요 (5 sentences)",
+            "List 5 places in your city in Korean",
+            "Translate: 'I go to the hospital. Then I go to school.'"
+          ]
+        },
+        {
+          "day": 9,
+          "topic": "Location Words",
+          "vocabulary": [
+            {"word": "위", "romanization": "wi", "meaning": "above / on top"},
+            {"word": "아래", "romanization": "arae", "meaning": "below / under"},
+            {"word": "앞", "romanization": "ap", "meaning": "in front"},
+            {"word": "뒤", "romanization": "dwi", "meaning": "behind"},
+            {"word": "옆", "romanization": "yeop", "meaning": "beside / next to"}
+          ],
+          "grammar": {
+            "pattern": "에 있어요 (location — something is somewhere)",
+            "explanation": "Place + 에 + 있어요 = something/someone is at a location.",
+            "examples": [
+              {"korean": "책상 위에 있어요.", "meaning": "It is on the desk."},
+              {"korean": "학교 앞에 있어요.", "meaning": "It is in front of the school."},
+              {"korean": "카페 옆에 있어요.", "meaning": "It is next to the cafe."}
+            ]
+          },
+          "reading": {
+            "title": "Where Is It?",
+            "text": "제 가방은 의자 위에 있어요. 신발은 침대 아래에 있어요. 학교는 카페 옆에 있어요.",
+            "translation": "My bag is on the chair. My shoes are under the bed. The school is next to the cafe."
+          },
+          "homework": [
+            "Describe where 5 objects in your room are located",
+            "Draw a simple map and describe it in Korean",
+            "Translate: 'The bank is in front of the hospital. The cafe is behind the school.'"
+          ]
+        },
+        {
+          "day": 10,
+          "topic": "Transportation",
+          "vocabulary": [
+            {"word": "버스", "romanization": "beoseu", "meaning": "bus"},
+            {"word": "지하철", "romanization": "jihacheol", "meaning": "subway"},
+            {"word": "택시", "romanization": "taeksi", "meaning": "taxi"},
+            {"word": "자전거", "romanization": "jajeon geo", "meaning": "bicycle"},
+            {"word": "걸어서", "romanization": "georeoseo", "meaning": "on foot / by walking"}
+          ],
+          "grammar": {
+            "pattern": "로/으로 (by means of / direction)",
+            "explanation": "Indicates method/direction. Use 로 after vowel or ㄹ, 으로 after other consonants.",
+            "examples": [
+              {"korean": "버스로 가요.", "meaning": "I go by bus."},
+              {"korean": "지하철로 와요.", "meaning": "I come by subway."},
+              {"korean": "걸어서 가요.", "meaning": "I go on foot."}
+            ]
+          },
+          "reading": {
+            "title": "How Do You Get There?",
+            "text": "저는 학교에 버스로 가요. 버스가 느려요. 그래서 가끔 지하철로 가요. 지하철이 더 빨라요.",
+            "translation": "I go to school by bus. The bus is slow. So sometimes I take the subway. The subway is faster."
+          },
+          "homework": [
+            "Describe how you get to 3 different places",
+            "Use 로/으로 in 4 sentences",
+            "Translate: 'I go to work by subway. I come home by taxi.'"
+          ]
+        },
+        {
+          "day": 11,
+          "topic": "Telling Time",
+          "vocabulary": [
+            {"word": "시", "romanization": "si", "meaning": "o'clock"},
+            {"word": "분", "romanization": "bun", "meaning": "minute"},
+            {"word": "오전", "romanization": "ojeon", "meaning": "AM"},
+            {"word": "오후", "romanization": "ohu", "meaning": "PM"},
+            {"word": "지금", "romanization": "jigeum", "meaning": "now"}
+          ],
+          "grammar": {
+            "pattern": "시 + 에 (at a time)",
+            "explanation": "Use native Korean for hours (한 시, 두 시...) and Sino-Korean for minutes (오 분, 십 분...)",
+            "examples": [
+              {"korean": "두 시에 만나요.", "meaning": "Let's meet at 2 o'clock."},
+              {"korean": "오전 열 시 삼십 분이에요.", "meaning": "It is 10:30 AM."},
+              {"korean": "오후 다섯 시에 수업이 있어요.", "meaning": "I have class at 5 PM."}
+            ]
+          },
+          "reading": {
+            "title": "Daily Schedule",
+            "text": "저는 아침 일곱 시에 일어나요. 오전 아홉 시에 수업이 시작해요. 오후 한 시에 점심을 먹어요. 저녁 일곱 시에 집에 와요.",
+            "translation": "I wake up at 7 AM. Class starts at 9 AM. I eat lunch at 1 PM. I come home at 7 PM."
+          },
+          "homework": [
+            "Write your schedule for today with exact times",
+            "Practice reading these times aloud: 3:15, 7:30, 12:00, 9:45",
+            "Translate: 'I eat breakfast at 8 AM. I study Korean at 9:30 PM.'"
+          ]
+        },
+        {
+          "day": 12,
+          "topic": "Days of the Week",
+          "vocabulary": [
+            {"word": "월요일", "romanization": "woryoil", "meaning": "Monday"},
+            {"word": "화요일", "romanization": "hwayoil", "meaning": "Tuesday"},
+            {"word": "수요일", "romanization": "suyoil", "meaning": "Wednesday"},
+            {"word": "목요일", "romanization": "mogyoil", "meaning": "Thursday"},
+            {"word": "금요일", "romanization": "geumyoil", "meaning": "Friday"},
+            {"word": "토요일", "romanization": "toyoil", "meaning": "Saturday"},
+            {"word": "일요일", "romanization": "iryoil", "meaning": "Sunday"}
+          ],
+          "grammar": {
+            "pattern": "에 (time marker for days/dates)",
+            "explanation": "Add 에 after a day or date to say 'on that day'.",
+            "examples": [
+              {"korean": "월요일에 학교에 가요.", "meaning": "I go to school on Monday."},
+              {"korean": "토요일에 쉬어요.", "meaning": "I rest on Saturday."},
+              {"korean": "금요일에 친구를 만나요.", "meaning": "I meet my friend on Friday."}
+            ]
+          },
+          "reading": {
+            "title": "My Weekly Schedule",
+            "text": "월요일부터 금요일까지 학교에 가요. 토요일에 한국어를 공부해요. 일요일에 쉬어요.",
+            "translation": "From Monday to Friday I go to school. On Saturday I study Korean. On Sunday I rest."
+          },
+          "homework": [
+            "Write your weekly schedule in Korean",
+            "Use 에 with each day of the week",
+            "Translate: 'On Wednesday I go to the hospital. On Sunday I rest at home.'"
+          ]
+        },
+        {
+          "day": 13,
+          "topic": "Weather Expressions",
+          "vocabulary": [
+            {"word": "날씨", "romanization": "nalsi", "meaning": "weather"},
+            {"word": "맑다", "romanization": "makda", "meaning": "clear / sunny"},
+            {"word": "흐리다", "romanization": "heurida", "meaning": "cloudy"},
+            {"word": "비가 오다", "romanization": "biga oda", "meaning": "to rain"},
+            {"word": "덥다", "romanization": "deopda", "meaning": "hot"}
+          ],
+          "grammar": {
+            "pattern": "adjective + 아요/어요 (descriptive verbs)",
+            "explanation": "Korean adjectives work like verbs. Conjugate them with 아요/어요 for present tense.",
+            "examples": [
+              {"korean": "날씨가 맑아요.", "meaning": "The weather is clear."},
+              {"korean": "오늘 더워요.", "meaning": "It is hot today."},
+              {"korean": "비가 와요.", "meaning": "It is raining."}
+            ]
+          },
+          "reading": {
+            "title": "Today's Weather",
+            "text": "오늘 날씨가 어때요? 오늘은 맑아요. 하지만 조금 더워요. 내일은 비가 올 거예요.",
+            "translation": "How is the weather today? Today it is clear. But it is a little hot. Tomorrow it will rain."
+          },
+          "homework": [
+            "Describe today's weather in Korean in 3 sentences",
+            "Look up and write the weather forecast for the next 3 days in Korean",
+            "Translate: 'Yesterday was cloudy. Today is sunny. Tomorrow will be cold.'"
+          ]
+        },
+        {
+          "day": 14,
+          "topic": "Week 2 Review",
+          "vocabulary": [
+            {"word": "어디", "romanization": "eodi", "meaning": "where"},
+            {"word": "언제", "romanization": "eonje", "meaning": "when"},
+            {"word": "어떻게", "romanization": "eotteoke", "meaning": "how"},
+            {"word": "왜", "romanization": "wae", "meaning": "why"},
+            {"word": "무엇/뭐", "romanization": "mueot/mwo", "meaning": "what"}
+          ],
+          "grammar": {
+            "pattern": "Question words review",
+            "explanation": "Practice using 어디, 언제, 어떻게, 왜, 뭐 to form questions.",
+            "examples": [
+              {"korean": "어디에 가요?", "meaning": "Where are you going?"},
+              {"korean": "언제 와요?", "meaning": "When are you coming?"},
+              {"korean": "뭐 먹어요?", "meaning": "What are you eating?"}
+            ]
+          },
+          "reading": {
+            "title": "Question and Answer Practice",
+            "text": "어디에 가요? 학교에 가요. 언제 가요? 아침 여덟 시에 가요. 어떻게 가요? 버스로 가요.",
+            "translation": "Where are you going? I am going to school. When do you go? I go at 8 AM. How do you go? I go by bus."
+          },
+          "homework": [
+            "Write a short Q&A dialogue using all 5 question words",
+            "Review Days 8–13 vocabulary (35 words)",
+            "Write 5 questions about your daily life and answer them in Korean"
+          ]
+        }
+      ]
+    },
+    {
+      "unit": 3,
+      "title": "Food & Shopping",
+      "days": [
+        {
+          "day": 15,
+          "topic": "Korean Food Vocabulary",
+          "vocabulary": [
+            {"word": "밥", "romanization": "bap", "meaning": "cooked rice / meal"},
+            {"word": "김치", "romanization": "kimchi", "meaning": "kimchi"},
+            {"word": "국", "romanization": "guk", "meaning": "soup"},
+            {"word": "물", "romanization": "mul", "meaning": "water"},
+            {"word": "커피", "romanization": "keopi", "meaning": "coffee"}
+          ],
+          "grammar": {
+            "pattern": "을/를 (object marker)",
+            "explanation": "Marks the object of a verb. Use 을 after consonant, 를 after vowel.",
+            "examples": [
+              {"korean": "밥을 먹어요.", "meaning": "I eat rice."},
+              {"korean": "커피를 마셔요.", "meaning": "I drink coffee."},
+              {"korean": "김치를 좋아해요.", "meaning": "I like kimchi."}
+            ]
+          },
+          "reading": {
+            "title": "What Do You Eat?",
+            "text": "저는 아침에 빵을 먹어요. 점심에는 밥이랑 국을 먹어요. 저녁에는 김치를 먹어요. 물을 많이 마셔요.",
+            "translation": "I eat bread in the morning. For lunch I eat rice and soup. In the evening I eat kimchi. I drink a lot of water."
+          },
+          "homework": [
+            "Write what you ate today in Korean for each meal",
+            "Use 을/를 in all sentences",
+            "Translate: 'I like kimchi. I drink coffee every morning.'"
+          ]
+        },
+        {
+          "day": 16,
+          "topic": "Ordering Food",
+          "vocabulary": [
+            {"word": "주세요", "romanization": "juseyo", "meaning": "please give me"},
+            {"word": "얼마예요?", "romanization": "eolmayeyo?", "meaning": "How much is it?"},
+            {"word": "맛있다", "romanization": "masitda", "meaning": "delicious"},
+            {"word": "맵다", "romanization": "maepda", "meaning": "spicy"},
+            {"word": "달다", "romanization": "dalda", "meaning": "sweet"}
+          ],
+          "grammar": {
+            "pattern": "주세요 (please give me / please do)",
+            "explanation": "Attach 주세요 after a noun + 을/를 to politely request something.",
+            "examples": [
+              {"korean": "물 주세요.", "meaning": "Please give me water."},
+              {"korean": "메뉴 주세요.", "meaning": "Please give me the menu."},
+              {"korean": "비빔밥 하나 주세요.", "meaning": "Please give me one bibimbap."}
+            ]
+          },
+          "reading": {
+            "title": "At the Restaurant",
+            "text": "어서오세요! 뭐 드릴까요? 비빔밥 하나 주세요. 음료수는요? 물 주세요. 얼마예요? 팔천 원이에요.",
+            "translation": "Welcome! What would you like? One bibimbap, please. And for a drink? Water, please. How much is it? It's 8,000 won."
+          },
+          "homework": [
+            "Write a restaurant dialogue ordering a full meal in Korean",
+            "Practice 5 food requests using 주세요",
+            "Translate: 'One coffee, please. How much is it? It is 5,000 won.'"
+          ]
+        },
+        {
+          "day": 17,
+          "topic": "Shopping Vocabulary",
+          "vocabulary": [
+            {"word": "옷", "romanization": "ot", "meaning": "clothes"},
+            {"word": "신발", "romanization": "sinbal", "meaning": "shoes"},
+            {"word": "가방", "romanization": "gabang", "meaning": "bag"},
+            {"word": "비싸다", "romanization": "bissada", "meaning": "expensive"},
+            {"word": "싸다", "romanization": "ssada", "meaning": "cheap"}
+          ],
+          "grammar": {
+            "pattern": "이/가 아니에요 (is not)",
+            "explanation": "Negation for nouns. Use 이 아니에요 after consonant, 가 아니에요 after vowel.",
+            "examples": [
+              {"korean": "학생이 아니에요.", "meaning": "I am not a student."},
+              {"korean": "비싸지 않아요.", "meaning": "It is not expensive."},
+              {"korean": "제 가방이 아니에요.", "meaning": "It is not my bag."}
+            ]
+          },
+          "reading": {
+            "title": "Shopping",
+            "text": "이 옷이 얼마예요? 오만 원이에요. 비싸요! 저 옷은요? 이만 원이에요. 싸요! 그걸로 주세요.",
+            "translation": "How much is this clothing? It's 50,000 won. That's expensive! What about that clothing? It's 20,000 won. That's cheap! I'll take that one."
+          },
+          "homework": [
+            "Write a shopping dialogue for buying shoes or a bag",
+            "Use 비싸다, 싸다, and 주세요",
+            "Translate: 'This bag is not expensive. That is 15,000 won. I'll take it.'"
+          ]
+        },
+        {
+          "day": 18,
+          "topic": "Colors & Adjectives",
+          "vocabulary": [
+            {"word": "빨간색", "romanization": "bbalganssaek", "meaning": "red"},
+            {"word": "파란색", "romanization": "paranssaek", "meaning": "blue"},
+            {"word": "노란색", "romanization": "noranssaek", "meaning": "yellow"},
+            {"word": "하얀색", "romanization": "hayanssaek", "meaning": "white"},
+            {"word": "검은색", "romanization": "geomeunssaek", "meaning": "black"}
+          ],
+          "grammar": {
+            "pattern": "Adjective + noun (modifying nouns)",
+            "explanation": "To modify a noun, descriptive verbs drop 다 and add ㄴ/은 before the noun.",
+            "examples": [
+              {"korean": "빨간 가방이에요.", "meaning": "It is a red bag."},
+              {"korean": "큰 학교예요.", "meaning": "It is a big school."},
+              {"korean": "맛있는 음식이에요.", "meaning": "It is delicious food."}
+            ]
+          },
+          "reading": {
+            "title": "Describing Things",
+            "text": "저는 파란 가방이 있어요. 하얀 신발도 있어요. 빨간 옷은 없어요. 검은 옷을 제일 좋아해요.",
+            "translation": "I have a blue bag. I also have white shoes. I don't have red clothes. I like black clothes the most."
+          },
+          "homework": [
+            "Describe 5 objects around you using color + noun",
+            "Write which colors you like and dislike",
+            "Translate: 'I have a white bag. I like blue shoes. I don't have a yellow hat.'"
+          ]
+        },
+        {
+          "day": 19,
+          "topic": "Expressing Likes & Dislikes",
+          "vocabulary": [
+            {"word": "좋아하다", "romanization": "joahada", "meaning": "to like"},
+            {"word": "싫어하다", "romanization": "sireohada", "meaning": "to dislike"},
+            {"word": "좋다", "romanization": "jota", "meaning": "to be good / to like (feeling)"},
+            {"word": "재미있다", "romanization": "jaemiitda", "meaning": "interesting / fun"},
+            {"word": "재미없다", "romanization": "jaemieopda", "meaning": "boring / not fun"}
+          ],
+          "grammar": {
+            "pattern": "도 (also / too)",
+            "explanation": "도 replaces 은/는 or 이/가 to mean 'also' or 'too'.",
+            "examples": [
+              {"korean": "저도 학생이에요.", "meaning": "I am also a student."},
+              {"korean": "김치도 좋아해요.", "meaning": "I also like kimchi."},
+              {"korean": "이것도 비싸요.", "meaning": "This is also expensive."}
+            ]
+          },
+          "reading": {
+            "title": "What Do You Like?",
+            "text": "저는 한국 음식을 좋아해요. 특히 김치찌개를 좋아해요. 매운 음식도 좋아해요. 하지만 너무 매운 음식은 싫어해요.",
+            "translation": "I like Korean food. Especially I like kimchi jjigae. I also like spicy food. But I dislike food that is too spicy."
+          },
+          "homework": [
+            "Write 5 things you like and 3 things you dislike in Korean",
+            "Use 도 in at least 3 sentences",
+            "Translate: 'I like coffee. I also like tea. But I dislike soda.'"
+          ]
+        },
+        {
+          "day": 20,
+          "topic": "Making Requests & Asking for Help",
+          "vocabulary": [
+            {"word": "도와주세요", "romanization": "dowajuseyo", "meaning": "Please help me"},
+            {"word": "가르쳐 주세요", "romanization": "gareuchyeo juseyo", "meaning": "Please teach me"},
+            {"word": "다시", "romanization": "dasi", "meaning": "again"},
+            {"word": "천천히", "romanization": "cheoncheonhi", "meaning": "slowly"},
+            {"word": "모르다", "romanization": "moreuda", "meaning": "to not know"}
+          ],
+          "grammar": {
+            "pattern": "verb stem + 아/어 주세요 (please do for me)",
+            "explanation": "Ask someone to do something for you politely. Verb stem + 아/어 주세요.",
+            "examples": [
+              {"korean": "천천히 말해 주세요.", "meaning": "Please speak slowly."},
+              {"korean": "다시 한번 말해 주세요.", "meaning": "Please say it one more time."},
+              {"korean": "도와주세요.", "meaning": "Please help me."}
+            ]
+          },
+          "reading": {
+            "title": "Asking for Help",
+            "text": "실례합니다. 한국어를 못 해요. 영어로 말해 주세요? 아, 모르겠어요. 천천히 말해 주세요. 감사합니다!",
+            "translation": "Excuse me. I can't speak Korean. Can you speak in English? Ah, I don't understand. Please speak slowly. Thank you!"
+          },
+          "homework": [
+            "Write 4 polite requests using 아/어 주세요",
+            "Practice the reading passage out loud",
+            "Translate: 'Please write it again. Please speak slowly. I don't know.'"
+          ]
+        },
+        {
+          "day": 21,
+          "topic": "Week 3 Review",
+          "vocabulary": [
+            {"word": "맛", "romanization": "mat", "meaning": "taste"},
+            {"word": "색깔", "romanization": "saekgal", "meaning": "color"},
+            {"word": "주문", "romanization": "jumun", "meaning": "order"},
+            {"word": "가격", "romanization": "gagyeok", "meaning": "price"},
+            {"word": "쇼핑", "romanization": "syoping", "meaning": "shopping"}
+          ],
+          "grammar": {
+            "pattern": "Review: 을/를, 도, adjective modification, 주세요, 아/어 주세요",
+            "explanation": "Comprehensive review of Units 1–3 patterns and vocabulary.",
+            "examples": [
+              {"korean": "빨간 옷을 주세요.", "meaning": "Please give me the red clothes."},
+              {"korean": "천천히 말해 주세요. 저도 몰라요.", "meaning": "Please speak slowly. I don't know either."},
+              {"korean": "이 음식이 맛있어요? 네, 정말 맛있어요!", "meaning": "Is this food delicious? Yes, it's really delicious!"}
+            ]
+          },
+          "reading": {
+            "title": "A Shopping Trip",
+            "text": "오늘 마트에 갔어요. 빨간 사과를 샀어요. 노란 바나나도 샀어요. 물도 샀어요. 모두 만 원이었어요.",
+            "translation": "Today I went to the supermarket. I bought red apples. I also bought yellow bananas. I also bought water. It was all 10,000 won."
+          },
+          "homework": [
+            "Write a short story about a shopping trip (6–8 sentences)",
+            "Include prices, colors, and polite requests",
+            "Review all vocabulary from Days 15–20 (30 words)"
+          ]
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "title": "Health & Body",
+      "days": [
+        {
+          "day": 22, "topic": "Body Parts",
+          "vocabulary": [{"word": "머리", "romanization": "meori", "meaning": "head"}, {"word": "눈", "romanization": "nun", "meaning": "eyes"}, {"word": "코", "romanization": "ko", "meaning": "nose"}, {"word": "입", "romanization": "ip", "meaning": "mouth"}, {"word": "손", "romanization": "son", "meaning": "hand"}],
+          "grammar": {"pattern": "이/가 아파요 (something hurts)", "explanation": "Body part + 이/가 + 아파요 = something hurts.", "examples": [{"korean": "머리가 아파요.", "meaning": "My head hurts."}, {"korean": "배가 아파요.", "meaning": "My stomach hurts."}, {"korean": "눈이 아파요.", "meaning": "My eyes hurt."}]},
+          "reading": {"title": "I'm Not Feeling Well", "text": "오늘 몸이 안 좋아요. 머리가 아파요. 열도 있어요. 병원에 가야 해요.", "translation": "I'm not feeling well today. My head hurts. I also have a fever. I need to go to the hospital."},
+          "homework": ["Write 5 sentences about body parts using 아파요", "Translate: 'My throat hurts. I have a cold.'", "List all body parts you know in Korean"]
+        },
+        {
+          "day": 23, "topic": "At the Doctor",
+          "vocabulary": [{"word": "감기", "romanization": "gamgi", "meaning": "cold (illness)"}, {"word": "열", "romanization": "yeol", "meaning": "fever"}, {"word": "약", "romanization": "yak", "meaning": "medicine"}, {"word": "쉬다", "romanization": "swida", "meaning": "to rest"}, {"word": "괜찮다", "romanization": "gwaenchanta", "meaning": "to be okay"}],
+          "grammar": {"pattern": "아/어야 해요 (have to / must)", "explanation": "Verb stem + 아/어야 해요 = must do, have to do.", "examples": [{"korean": "쉬어야 해요.", "meaning": "You must rest."}, {"korean": "약을 먹어야 해요.", "meaning": "You must take medicine."}, {"korean": "병원에 가야 해요.", "meaning": "I have to go to the hospital."}]},
+          "reading": {"title": "Doctor Visit", "text": "어디가 아파요? 머리가 아프고 열이 있어요. 감기예요. 이 약을 드세요. 그리고 쉬어야 해요.", "translation": "Where does it hurt? My head hurts and I have a fever. It's a cold. Take this medicine. And you need to rest."},
+          "homework": ["Write a doctor-patient dialogue", "Use 아/어야 해요 in 4 sentences", "Translate: 'I have a stomachache. I must take medicine and rest.'"]
+        },
+        {
+          "day": 24, "topic": "Feelings & Emotions",
+          "vocabulary": [{"word": "기쁘다", "romanization": "gippeuda", "meaning": "happy"}, {"word": "슬프다", "romanization": "seulpeuda", "meaning": "sad"}, {"word": "화나다", "romanization": "hwanada", "meaning": "angry"}, {"word": "피곤하다", "romanization": "pigonhada", "meaning": "tired"}, {"word": "걱정하다", "romanization": "geokjeonghada", "meaning": "to worry"}],
+          "grammar": {"pattern": "왜냐하면 ~ 기 때문이에요 (because)", "explanation": "Expresses reason: 왜냐하면 + reason + 기 때문이에요 / -(아/어)서", "examples": [{"korean": "피곤해요. 왜냐하면 많이 공부했기 때문이에요.", "meaning": "I'm tired because I studied a lot."}, {"korean": "기뻐요. 시험을 잘 봤어요.", "meaning": "I'm happy. I did well on the exam."}, {"korean": "슬퍼요. 친구가 아파서요.", "meaning": "I'm sad because my friend is sick."}]},
+          "reading": {"title": "How Are You Feeling?", "text": "오늘 기분이 어때요? 조금 피곤해요. 어제 많이 일했어요. 하지만 기뻐요. 내일 친구를 만나요!", "translation": "How are you feeling today? I'm a bit tired. I worked a lot yesterday. But I'm happy. I'm meeting a friend tomorrow!"},
+          "homework": ["Describe your emotions today and why", "Use 왜냐하면 or -아/어서 in 3 sentences", "Translate: 'I am worried because I have an exam. But I am happy because I studied.'"]
+        },
+        {
+          "day": 25, "topic": "Hobbies & Free Time",
+          "vocabulary": [{"word": "취미", "romanization": "chwimi", "meaning": "hobby"}, {"word": "음악", "romanization": "eumak", "meaning": "music"}, {"word": "운동", "romanization": "undong", "meaning": "exercise / sports"}, {"word": "여행", "romanization": "yeohaeng", "meaning": "travel"}, {"word": "독서", "romanization": "dokseo", "meaning": "reading"}],
+          "grammar": {"pattern": "는 것을 좋아해요 (like doing something)", "explanation": "Verb stem + 는 것을 좋아해요 = I like doing [verb].", "examples": [{"korean": "음악을 듣는 것을 좋아해요.", "meaning": "I like listening to music."}, {"korean": "여행하는 것을 좋아해요.", "meaning": "I like traveling."}, {"korean": "운동하는 것을 좋아해요.", "meaning": "I like exercising."}]},
+          "reading": {"title": "What's Your Hobby?", "text": "제 취미는 음악 듣기예요. 한국 음악을 좋아해요. 운동도 좋아해요. 주말에 자전거를 타요. 여행도 하고 싶어요.", "translation": "My hobby is listening to music. I like Korean music. I also like exercising. On weekends I ride a bicycle. I also want to travel."},
+          "homework": ["Write about your hobbies using 는 것을 좋아해요", "Compare two hobbies using 더 (more)", "Translate: 'I like reading books. I also want to travel to Korea.'"]
+        },
+        {
+          "day": 26, "topic": "Past Tense",
+          "vocabulary": [{"word": "어제", "romanization": "eooje", "meaning": "yesterday"}, {"word": "지난주", "romanization": "jinanju", "meaning": "last week"}, {"word": "아까", "romanization": "akka", "meaning": "a little while ago"}, {"word": "전에", "romanization": "jeone", "meaning": "before / ago"}, {"word": "끝나다", "romanization": "kkeutnada", "meaning": "to finish / end"}],
+          "grammar": {"pattern": "았/었어요 (past tense)", "explanation": "Past tense: add 았어요 (ㅏ/ㅗ stem) or 었어요 (other stems). 하다 → 했어요.", "examples": [{"korean": "밥을 먹었어요.", "meaning": "I ate rice."}, {"korean": "학교에 갔어요.", "meaning": "I went to school."}, {"korean": "한국어를 공부했어요.", "meaning": "I studied Korean."}]},
+          "reading": {"title": "Yesterday", "text": "어제 뭐 했어요? 친구를 만났어요. 같이 밥을 먹었어요. 영화도 봤어요. 정말 재미있었어요.", "translation": "What did you do yesterday? I met a friend. We ate together. We also watched a movie. It was really fun."},
+          "homework": ["Write what you did yesterday (5 past tense sentences)", "Conjugate: 마시다, 오다, 자다, 읽다 into past tense", "Translate: 'I went to the cafe yesterday. I drank coffee and read a book.'"]
+        },
+        {
+          "day": 27, "topic": "Future Plans",
+          "vocabulary": [{"word": "내일", "romanization": "naeil", "meaning": "tomorrow"}, {"word": "다음 주", "romanization": "daeum ju", "meaning": "next week"}, {"word": "계획", "romanization": "gyehoek", "meaning": "plan"}, {"word": "할 거예요", "romanization": "hal geoyeyo", "meaning": "will do"}, {"word": "고 싶어요", "romanization": "go sipeoyo", "meaning": "want to do"}],
+          "grammar": {"pattern": "ㄹ/을 거예요 (future tense)", "explanation": "Verb stem + ㄹ/을 거예요 = will do / going to do. Use ㄹ after vowel, 을 after consonant.", "examples": [{"korean": "내일 공부할 거예요.", "meaning": "I will study tomorrow."}, {"korean": "한국에 갈 거예요.", "meaning": "I will go to Korea."}, {"korean": "친구를 만날 거예요.", "meaning": "I will meet my friend."}]},
+          "reading": {"title": "My Plans", "text": "이번 주말에 뭐 할 거예요? 친구랑 여행을 갈 거예요. 제주도에 갈 거예요. 정말 기대돼요!", "translation": "What will you do this weekend? I will travel with my friend. We will go to Jeju Island. I'm really looking forward to it!"},
+          "homework": ["Write your plans for next week using ㄹ/을 거예요 (6 sentences)", "Use 고 싶어요 to express 3 things you want to do", "Translate: 'Next week I will go to Seoul. I want to eat Korean food.'"]
+        },
+        {
+          "day": 28, "topic": "Week 4 Review",
+          "vocabulary": [{"word": "건강", "romanization": "geongang", "meaning": "health"}, {"word": "기분", "romanization": "gibun", "meaning": "mood / feeling"}, {"word": "생활", "romanization": "saenghwal", "meaning": "daily life"}, {"word": "주말", "romanization": "jumal", "meaning": "weekend"}, {"word": "평일", "romanization": "pyeongil", "meaning": "weekday"}],
+          "grammar": {"pattern": "Review: past tense, future tense, 아/어야 해요, 는 것을 좋아해요", "explanation": "Full review of Unit 4 grammar patterns with combined usage.", "examples": [{"korean": "어제 운동했어요. 내일도 할 거예요.", "meaning": "I exercised yesterday. I will do it tomorrow too."}, {"korean": "건강을 위해 운동해야 해요.", "meaning": "I have to exercise for my health."}, {"korean": "음악 듣는 것을 좋아해요.", "meaning": "I like listening to music."}]},
+          "reading": {"title": "My Healthy Lifestyle", "text": "저는 건강을 위해 매일 운동해요. 어제는 수영을 했어요. 내일은 자전거를 탈 거예요. 건강한 음식도 먹어야 해요.", "translation": "I exercise every day for my health. Yesterday I swam. Tomorrow I will ride a bicycle. I also need to eat healthy food."},
+          "homework": ["Write a paragraph about your health habits (past + present + future)", "Review all vocabulary from Days 22–27", "Mini quiz: conjugate 10 verbs into past and future tense"]
+        }
+      ]
+    },
+    {
+      "unit": 5,
+      "title": "Social Life & Communication",
+      "days": [
+        {"day": 29, "topic": "Talking on the Phone", "vocabulary": [{"word": "여보세요", "romanization": "yeoboseyo", "meaning": "Hello (on phone)"}, {"word": "잠깐만요", "romanization": "jamkkanmanyo", "meaning": "Just a moment"}, {"word": "메시지", "romanization": "mesiji", "meaning": "message"}, {"word": "전화하다", "romanization": "jeonhwahada", "meaning": "to call"}, {"word": "문자", "romanization": "munja", "meaning": "text message"}], "grammar": {"pattern": "-(으)ㄹ 수 있어요/없어요 (can/cannot)", "explanation": "Expresses ability. Verb stem + -(으)ㄹ 수 있어요 = can do.", "examples": [{"korean": "지금 통화할 수 있어요?", "meaning": "Can you talk right now?"}, {"korean": "내일 만날 수 있어요.", "meaning": "I can meet tomorrow."}, {"korean": "지금 갈 수 없어요.", "meaning": "I cannot go right now."}]}, "reading": {"title": "Phone Call", "text": "여보세요? 네, 여보세요! 지금 통화할 수 있어요? 잠깐만요... 네, 괜찮아요. 내일 만날 수 있어요?", "translation": "Hello? Yes, hello! Can you talk now? Just a moment... Yes, it's okay. Can we meet tomorrow?"}, "homework": ["Write a phone call dialogue", "Use -(으)ㄹ 수 있어요/없어요 in 5 sentences", "Translate: 'I cannot come today. Can we meet tomorrow?'"]},
+        {"day": 30, "topic": "Making Plans with Friends", "vocabulary": [{"word": "약속", "romanization": "yaksok", "meaning": "promise / appointment"}, {"word": "같이", "romanization": "gachi", "meaning": "together"}, {"word": "어때요?", "romanization": "eottaeyo?", "meaning": "How about? / What do you think?"}, {"word": "좋아요!", "romanization": "joayo!", "meaning": "Sounds good! / I like it!"}, {"word": "시간이 있다", "romanization": "sigani itda", "meaning": "to have time"}], "grammar": {"pattern": "-(으)ㄹ까요? (Shall we? / Should I?)", "explanation": "Used to make suggestions or ask for opinions. Verb stem + -(으)ㄹ까요?", "examples": [{"korean": "같이 밥 먹을까요?", "meaning": "Shall we eat together?"}, {"korean": "영화 볼까요?", "meaning": "Shall we watch a movie?"}, {"korean": "커피 마실까요?", "meaning": "Shall we have coffee?"}]}, "reading": {"title": "Making Plans", "text": "이번 주말에 시간 있어요? 네, 있어요! 같이 영화 볼까요? 좋아요! 몇 시가 좋아요? 오후 두 시 어때요?", "translation": "Are you free this weekend? Yes, I am! Shall we watch a movie together? Sounds good! What time is good? How about 2 PM?"}, "homework": ["Write a dialogue making plans with a friend", "Use -(으)ㄹ까요? for 3 suggestions", "Translate: 'Shall we eat lunch together? Saturday at 12 PM, how about it?'"]},
+        {"day": 31, "topic": "Giving Directions", "vocabulary": [{"word": "오른쪽", "romanization": "oreunjjok", "meaning": "right side"}, {"word": "왼쪽", "romanization": "oenjjok", "meaning": "left side"}, {"word": "직진", "romanization": "jikjin", "meaning": "straight ahead"}, {"word": "건너다", "romanization": "geoneoda", "meaning": "to cross"}, {"word": "골목", "romanization": "golmok", "meaning": "alley / side street"}], "grammar": {"pattern": "-(으)세요 (polite commands/requests)", "explanation": "Used for polite instructions. Verb stem + -(으)세요.", "examples": [{"korean": "오른쪽으로 가세요.", "meaning": "Go to the right."}, {"korean": "여기서 내리세요.", "meaning": "Get off here."}, {"korean": "신호등에서 건너세요.", "meaning": "Cross at the traffic light."}]}, "reading": {"title": "Where Is the Station?", "text": "지하철역이 어디예요? 직진하세요. 그 다음에 오른쪽으로 가세요. 큰 건물 옆에 있어요.", "translation": "Where is the subway station? Go straight. Then turn right. It is next to the big building."}, "homework": ["Write directions from your home to the nearest store", "Use -(으)세요 for each step", "Translate: 'Turn left. Go straight. Cross the street. It is on the right.'"]},
+        {"day": 32, "topic": "Describing People", "vocabulary": [{"word": "키가 크다", "romanization": "kiga keuda", "meaning": "tall"}, {"word": "키가 작다", "romanization": "kiga jakda", "meaning": "short"}, {"word": "머리카락", "romanization": "meorikarak", "meaning": "hair"}, {"word": "안경", "romanization": "angyeong", "meaning": "glasses"}, {"word": "성격", "romanization": "seonggyeok", "meaning": "personality"}], "grammar": {"pattern": "고 (and — connecting clauses)", "explanation": "Connects two clauses or lists actions. Verb/adj stem + 고.", "examples": [{"korean": "키가 크고 날씬해요.", "meaning": "She is tall and slim."}, {"korean": "착하고 재미있어요.", "meaning": "He is kind and funny."}, {"korean": "밥을 먹고 공부해요.", "meaning": "I eat and then study."}]}, "reading": {"title": "My Best Friend", "text": "제 친구는 키가 크고 머리가 길어요. 안경을 써요. 성격이 좋고 재미있어요. 저는 그 친구를 정말 좋아해요.", "translation": "My friend is tall and has long hair. She wears glasses. She has a good personality and is funny. I really like that friend."}, "homework": ["Describe a family member or friend in Korean (5–6 sentences)", "Use 고 to connect at least 3 pairs of adjectives", "Translate: 'My brother is short and has short hair. He is kind and smart.'"]},
+        {"day": 33, "topic": "Korean Culture & Etiquette", "vocabulary": [{"word": "존댓말", "romanization": "jondaenmal", "meaning": "formal/polite speech"}, {"word": "반말", "romanization": "banmal", "meaning": "informal speech"}, {"word": "어른", "romanization": "eoreun", "meaning": "adult / elder"}, {"word": "인사하다", "romanization": "insahada", "meaning": "to greet"}, {"word": "절하다", "romanization": "jeolhada", "meaning": "to bow"}], "grammar": {"pattern": "-(으)면 (if / when)", "explanation": "Conditional: verb stem + -(으)면 = if/when something happens.", "examples": [{"korean": "어른을 만나면 인사해요.", "meaning": "When you meet an elder, greet them."}, {"korean": "시간이 있으면 공부해요.", "meaning": "If I have time, I study."}, {"korean": "비가 오면 집에 있어요.", "meaning": "If it rains, I stay home."}]}, "reading": {"title": "Korean Customs", "text": "한국에서는 어른에게 존댓말을 써야 해요. 밥을 먹을 때 어른이 먼저 드세요. 선물을 받으면 감사합니다 라고 해요.", "translation": "In Korea, you must use polite speech with elders. When eating, elders eat first. When you receive a gift, you say 'Thank you.'"}, "homework": ["Write 3 Korean cultural rules using -(으)면", "Compare one Korean etiquette rule with your own culture", "Translate: 'If you meet someone older, bow and greet them politely.'"]},
+        {"day": 34, "topic": "Seasons & Nature", "vocabulary": [{"word": "봄", "romanization": "bom", "meaning": "spring"}, {"word": "여름", "romanization": "yeoreum", "meaning": "summer"}, {"word": "가을", "romanization": "gaeul", "meaning": "autumn"}, {"word": "겨울", "romanization": "gyeoul", "meaning": "winter"}, {"word": "꽃", "romanization": "kkot", "meaning": "flower"}], "grammar": {"pattern": "-(아/어)서 (so / because — cause and effect)", "explanation": "Connects a reason to a result. Verb/adj stem + 아/어서.", "examples": [{"korean": "봄이라서 꽃이 많아요.", "meaning": "Because it's spring, there are many flowers."}, {"korean": "더워서 물을 마셔요.", "meaning": "Because it's hot, I drink water."}, {"korean": "피곤해서 일찍 자요.", "meaning": "Because I'm tired, I sleep early."}]}, "reading": {"title": "My Favorite Season", "text": "제가 제일 좋아하는 계절은 봄이에요. 봄에는 꽃이 많아서 예뻐요. 날씨도 따뜻해서 밖에 나가고 싶어요.", "translation": "My favorite season is spring. In spring there are many flowers so it's beautiful. The weather is warm too so I want to go outside."}, "homework": ["Write about your favorite season and why", "Use -(아/어)서 in 4 sentences", "Translate: 'It's cold in winter so I stay home. It's fun in summer because I swim.'"]},
+        {"day": 35, "topic": "Week 5 Review", "vocabulary": [{"word": "대화", "romanization": "daehwa", "meaning": "conversation / dialogue"}, {"word": "표현", "romanization": "pyohyeon", "meaning": "expression"}, {"word": "연락하다", "romanization": "yeonlakada", "meaning": "to contact"}, {"word": "초대하다", "romanization": "chodahada", "meaning": "to invite"}, {"word": "참석하다", "romanization": "chamseokada", "meaning": "to attend"}], "grammar": {"pattern": "Review: -(으)ㄹ 수 있어요, -(으)ㄹ까요?, -(으)면, -(아/어)서", "explanation": "Comprehensive review of all Unit 5 patterns with real-world application.", "examples": [{"korean": "시간이 있으면 같이 밥 먹을까요?", "meaning": "If you have time, shall we eat together?"}, {"korean": "피곤해서 갈 수 없어요.", "meaning": "I can't go because I'm tired."}, {"korean": "내일 연락할 수 있어요?", "meaning": "Can you contact me tomorrow?"}]}, "reading": {"title": "Invitation", "text": "이번 토요일에 파티가 있어요. 초대하고 싶어요. 올 수 있어요? 시간이 있으면 꼭 와 주세요!", "translation": "There is a party this Saturday. I want to invite you. Can you come? If you have time, please definitely come!"}, "homework": ["Write an invitation message to a friend in Korean", "Review all Unit 5 vocabulary (35 words)", "Practice all grammar patterns from Days 29–34"]}
+      ]
+    },
+    {
+      "unit": 6,
+      "title": "TOPIK 1 Exam Preparation",
+      "days": [
+        {"day": 36, "topic": "TOPIK Reading Skills — Question Types", "vocabulary": [{"word": "문제", "romanization": "munje", "meaning": "problem / question"}, {"word": "정답", "romanization": "jeongdap", "meaning": "correct answer"}, {"word": "지문", "romanization": "jimun", "meaning": "passage / text"}, {"word": "빈칸", "romanization": "binkan", "meaning": "blank space"}, {"word": "고르다", "romanization": "goreuda", "meaning": "to choose / select"}], "grammar": {"pattern": "Review: connecting sentences with 그리고, 하지만, 그래서, 그런데", "explanation": "Master discourse connectors for reading comprehension.", "examples": [{"korean": "한국어를 공부해요. 그래서 재미있어요.", "meaning": "I study Korean. So it's interesting."}, {"korean": "밥을 먹었어요. 하지만 배가 고파요.", "meaning": "I ate. But I'm still hungry."}, {"korean": "운동해요. 그리고 공부해요.", "meaning": "I exercise. And I study."}]}, "reading": {"title": "TOPIK Reading Strategy", "text": "TOPIK 1 읽기에는 여러 종류의 문제가 있어요. 빈칸 채우기, 내용 이해, 주제 찾기가 있어요. 먼저 지문을 읽고 문제를 풀어요.", "translation": "TOPIK 1 reading has various types of questions. There are fill-in-the-blank, content comprehension, and finding the main topic. First read the passage and then answer the questions."}, "homework": ["Practice identifying the main topic of 2 short Korean texts", "Fill in blanks using appropriate connectors (그리고/하지만/그래서/그런데)", "Translate a 5-sentence Korean paragraph to check comprehension"]},
+        {"day": 37, "topic": "TOPIK Listening Practice", "vocabulary": [{"word": "듣기", "romanization": "deutgi", "meaning": "listening"}, {"word": "대화문", "romanization": "daehwamun", "meaning": "dialogue text"}, {"word": "상황", "romanization": "sanghwang", "meaning": "situation"}, {"word": "내용", "romanization": "naeyong", "meaning": "content"}, {"word": "추측하다", "romanization": "chucheukhada", "meaning": "to guess / infer"}], "grammar": {"pattern": "Review: question words + answer patterns", "explanation": "Practice answering 뭐, 어디, 언제, 왜, 어떻게 questions quickly and accurately.", "examples": [{"korean": "Q: 어디에 가요? A: 학교에 가요.", "meaning": "Q: Where are you going? A: To school."}, {"korean": "Q: 왜 공부해요? A: 시험이 있어서요.", "meaning": "Q: Why are you studying? A: Because I have an exam."}, {"korean": "Q: 언제 자요? A: 밤 열 시에 자요.", "meaning": "Q: When do you sleep? A: At 10 PM."}]}, "reading": {"title": "TOPIK Listening Tip", "text": "TOPIK 1 듣기는 천천히 들을 수 있어요. 키워드를 들어요. 그리고 상황을 생각해요. 답을 빨리 고르세요.", "translation": "TOPIK 1 listening is manageable. Listen for keywords. And think about the situation. Choose your answer quickly."}, "homework": ["Write 5 Q&A pairs using different question words", "Listen to a short Korean audio/video and write what you understood", "Practice answering questions in under 10 seconds each"]},
+        {"day": 38, "topic": "Vocabulary Building — Common TOPIK Words", "vocabulary": [{"word": "생각하다", "romanization": "saenggakada", "meaning": "to think"}, {"word": "필요하다", "romanization": "piryohada", "meaning": "to need / necessary"}, {"word": "사용하다", "romanization": "sayonghada", "meaning": "to use"}, {"word": "설명하다", "romanization": "seolmyeonghada", "meaning": "to explain"}, {"word": "선택하다", "romanization": "seonntaekada", "meaning": "to choose / select"}], "grammar": {"pattern": "Negative forms review: 안 + verb, -지 않아요, 못 + verb", "explanation": "Review all negative forms. 안/지 않아요 = won't/don't. 못 = can't (ability).", "examples": [{"korean": "안 먹어요 / 먹지 않아요.", "meaning": "I don't eat. (choice)"}, {"korean": "못 먹어요.", "meaning": "I can't eat. (inability)"}, {"korean": "시간이 없어서 못 가요.", "meaning": "I can't go because I don't have time."}]}, "reading": {"title": "Study Smart", "text": "TOPIK을 준비할 때 어휘가 정말 중요해요. 매일 새로운 단어를 외워야 해요. 모르는 단어는 필기해요. 그리고 반복해서 사용해요.", "translation": "When preparing for TOPIK, vocabulary is very important. You must memorize new words every day. Write down words you don't know. And use them repeatedly."}, "homework": ["Write the meaning of 10 TOPIK vocabulary words from memory", "Write 5 sentences using negative forms", "Translate: 'I can't choose. I don't understand. Please explain again.'"]},
+        {"day": 39, "topic": "Reading Comprehension Practice 1", "vocabulary": [{"word": "제목", "romanization": "jemok", "meaning": "title"}, {"word": "단락", "romanization": "dallak", "meaning": "paragraph"}, {"word": "결론", "romanization": "gyeollon", "meaning": "conclusion"}, {"word": "예시", "romanization": "yesi", "meaning": "example"}, {"word": "정보", "romanization": "jeongbo", "meaning": "information"}], "grammar": {"pattern": "-(으)ㄴ/는 것 같아요 (it seems like / I think)", "explanation": "Expresses conjecture or softened opinion. Adjective/verb + -(으)ㄴ/는 것 같아요.", "examples": [{"korean": "피곤한 것 같아요.", "meaning": "It seems like you're tired."}, {"korean": "비가 올 것 같아요.", "meaning": "It seems like it will rain."}, {"korean": "맛있는 것 같아요.", "meaning": "It seems like it's delicious."}]}, "reading": {"title": "Sample TOPIK Passage", "text": "한국은 봄, 여름, 가을, 겨울 사계절이 있어요. 봄에는 꽃이 피고 따뜻해요. 여름에는 더워서 수영을 해요. 가을에는 단풍이 예뻐요. 겨울에는 눈이 와요.", "translation": "Korea has four seasons: spring, summer, autumn, and winter. In spring flowers bloom and it's warm. In summer it's hot so people swim. In autumn the autumn leaves are beautiful. In winter it snows."}, "homework": ["Read the passage again and answer: (1) What season has flowers? (2) What do people do in summer? (3) What's special about autumn?", "Write 3 sentences using -(으)ㄴ/는 것 같아요", "Summarize the passage in 2 Korean sentences"]},
+        {"day": 40, "topic": "Reading Comprehension Practice 2", "vocabulary": [{"word": "특히", "romanization": "teuki", "meaning": "especially / particularly"}, {"word": "모두", "romanization": "modu", "meaning": "all / everyone"}, {"word": "아직", "romanization": "ajik", "meaning": "still / not yet"}, {"word": "벌써", "romanization": "beolsseo", "meaning": "already"}, {"word": "다시", "romanization": "dasi", "meaning": "again"}], "grammar": {"pattern": "Time adverbs: 아직, 벌써, 다시, 이미, 곧", "explanation": "Useful adverbs for TOPIK: 아직 = still/not yet, 벌써 = already, 곧 = soon, 이미 = already (done).", "examples": [{"korean": "아직 안 먹었어요.", "meaning": "I haven't eaten yet."}, {"korean": "벌써 끝났어요.", "meaning": "It's already finished."}, {"korean": "곧 도착해요.", "meaning": "I'll arrive soon."}]}, "reading": {"title": "A Letter from Korea", "text": "안녕하세요! 저는 지금 한국에 있어요. 한국에 온 지 벌써 2주가 됐어요. 아직 한국어가 어렵지만 매일 공부해요. 곧 잘할 수 있을 거예요!", "translation": "Hello! I am in Korea right now. It's already been 2 weeks since I came to Korea. Korean is still difficult but I study every day. I will soon be able to do well!"}, "homework": ["Identify all time adverbs in the reading and translate each sentence", "Write 4 sentences using 아직, 벌써, 다시, 곧", "Translate: 'I haven't finished yet. It's already 10 PM. I will sleep soon.'"]},
+        {"day": 41, "topic": "Mock Test — Vocabulary & Grammar", "vocabulary": [{"word": "시험지", "romanization": "siheomji", "meaning": "test paper"}, {"word": "수험생", "romanization": "suhyeomssaeng", "meaning": "test taker"}, {"word": "점수", "romanization": "jeomssu", "meaning": "score"}, {"word": "합격", "romanization": "hapgyeok", "meaning": "passing"}, {"word": "불합격", "romanization": "bulhapgyeok", "meaning": "failing"}], "grammar": {"pattern": "Full grammar review — all patterns Days 1–40", "explanation": "Today is your mock grammar quiz day! Review all major patterns.", "examples": [{"korean": "내일 시험이 있어서 오늘 공부해야 해요.", "meaning": "Because I have an exam tomorrow, I must study today."}, {"korean": "열심히 공부하면 합격할 수 있어요.", "meaning": "If you study hard, you can pass."}, {"korean": "시험이 끝나면 여행을 갈 거예요.", "meaning": "When the exam is over, I will travel."}]}, "reading": {"title": "Test Day Tips", "text": "시험 날은 일찍 일어나야 해요. 아침을 꼭 먹어요. 시험지를 받으면 먼저 문제를 전부 읽어요. 모르는 문제는 건너뛰고 나중에 다시 해요.", "translation": "On test day you must wake up early. Be sure to eat breakfast. When you receive the test paper, first read all the questions. Skip questions you don't know and come back later."}, "homework": ["Complete this mini mock test: translate 10 sentences English→Korean", "Write 5 sentences using patterns from multiple units", "Study your 10 weakest vocabulary words from the course so far"]},
+        {"day": 42, "topic": "Week 6 & Mid-Course Review", "vocabulary": [{"word": "실력", "romanization": "sillyeok", "meaning": "ability / proficiency"}, {"word": "향상", "romanization": "hyangsang", "meaning": "improvement"}, {"word": "꾸준히", "romanization": "kkujunhi", "meaning": "consistently / steadily"}, {"word": "자신감", "romanization": "jasingam", "meaning": "confidence"}, {"word": "포기하지 마세요", "romanization": "pogihaji maseyo", "meaning": "Don't give up"}], "grammar": {"pattern": "Review of all grammar from Units 1–6", "explanation": "Today is a full review day. Write, read, and speak using all patterns you've learned.", "examples": [{"korean": "꾸준히 공부하면 실력이 향상돼요.", "meaning": "If you study consistently, your skills improve."}, {"korean": "포기하지 마세요. 할 수 있어요!", "meaning": "Don't give up. You can do it!"}, {"korean": "지금까지 잘 했어요. 계속 하세요!", "meaning": "You've done well so far. Keep going!"}]}, "reading": {"title": "Halfway Reflection", "text": "벌써 42일이 됐어요! 많이 배웠어요. 처음에는 어려웠지만 지금은 조금 쉬워요. 꾸준히 공부하면 TOPIK 1에 합격할 수 있을 거예요. 파이팅!", "translation": "It's already been 42 days! You've learned a lot. At first it was difficult but now it's a bit easier. If you study consistently, you will be able to pass TOPIK 1. Fighting!"}, "homework": ["Write a self-reflection paragraph: what you've learned, what was hard, what improved", "Full vocabulary review: quiz yourself on 50 random words from the course", "Re-read Day 1 lesson and notice how much you've improved!"]}
+      ]
+    },
+    {
+      "unit": 7,
+      "title": "Advanced TOPIK 1 Topics",
+      "days": [
+        {"day": 43, "topic": "Korean Particles Deep Dive", "vocabulary": [{"word": "에서", "romanization": "eseo", "meaning": "at / from (action location)"}, {"word": "부터", "romanization": "buteo", "meaning": "from (time/place)"}, {"word": "까지", "romanization": "kkaji", "meaning": "until / to"}, {"word": "한테", "romanization": "hante", "meaning": "to/from (person)"}, {"word": "처럼", "romanization": "cheoreom", "meaning": "like / as"}], "grammar": {"pattern": "에 vs 에서 (static location vs action location)", "explanation": "에 = existence (있어요/없어요, destination). 에서 = where an action happens.", "examples": [{"korean": "학교에 있어요.", "meaning": "I am at school. (location/existence)"}, {"korean": "학교에서 공부해요.", "meaning": "I study at school. (action)"}, {"korean": "집에서 쉬어요.", "meaning": "I rest at home. (action)"}]}, "reading": {"title": "At the Library", "text": "저는 오늘 도서관에서 공부했어요. 도서관은 학교 옆에 있어요. 아침 아홉 시부터 저녁 여섯 시까지 공부했어요.", "translation": "Today I studied at the library. The library is next to the school. I studied from 9 AM until 6 PM."}, "homework": ["Write 5 sentences using 에 and 5 using 에서", "Use 부터~까지 to describe your study schedule", "Translate: 'I work at the cafe from 10 AM to 4 PM. The cafe is near my home.'"]},
+        {"day": 44, "topic": "Counters & Quantities", "vocabulary": [{"word": "개", "romanization": "gae", "meaning": "piece / unit (general)"}, {"word": "명", "romanization": "myeong", "meaning": "person (counter)"}, {"word": "권", "romanization": "gwon", "meaning": "volume / book (counter)"}, {"word": "병", "romanization": "byeong", "meaning": "bottle (counter)"}, {"word": "잔", "romanization": "jan", "meaning": "cup / glass (counter)"}], "grammar": {"pattern": "Native Korean numbers + counters", "explanation": "Use native Korean numbers (하나, 둘...) with counters. Numbers change slightly: 하나→한, 둘→두, 셋→세, 넷→네.", "examples": [{"korean": "사과 세 개 주세요.", "meaning": "Please give me 3 apples."}, {"korean": "책 두 권이 있어요.", "meaning": "I have 2 books."}, {"korean": "물 한 잔 주세요.", "meaning": "Please give me one glass of water."}]}, "reading": {"title": "At the Market", "text": "사과 다섯 개 주세요. 그리고 물 두 병도 주세요. 모두 얼마예요? 팔천 오백 원이에요.", "translation": "Please give me 5 apples. And also 2 bottles of water. How much is everything? It's 8,500 won."}, "homework": ["Write what's in your bag/room using counters", "Practice ordering items at a restaurant using the right counters", "Translate: 'I have 3 books. I drank 2 cups of coffee today. There are 5 people.'"]},
+        {"day": 45, "topic": "Expressing Opinions", "vocabulary": [{"word": "생각", "romanization": "saenggak", "meaning": "thought / opinion"}, {"word": "의견", "romanization": "uigyeon", "meaning": "opinion"}, {"word": "찬성하다", "romanization": "chanseongada", "meaning": "to agree"}, {"word": "반대하다", "romanization": "bandaehada", "meaning": "to disagree"}, {"word": "중요하다", "romanization": "jungyohada", "meaning": "important"}], "grammar": {"pattern": "-(이)라고 생각해요 (I think that...)", "explanation": "Used to express opinions. Noun + (이)라고 생각해요 or clause + 고 생각해요.", "examples": [{"korean": "중요하다고 생각해요.", "meaning": "I think it is important."}, {"korean": "좋은 생각이라고 생각해요.", "meaning": "I think it's a good idea."}, {"korean": "어렵다고 생각해요.", "meaning": "I think it's difficult."}]}, "reading": {"title": "My Opinion on Korean Study", "text": "저는 한국어 공부가 중요하다고 생각해요. 매일 공부하는 것이 좋다고 생각해요. 처음에는 어렵지만 재미있어요.", "translation": "I think studying Korean is important. I think studying every day is good. At first it's difficult but it's interesting."}, "homework": ["Write your opinion on 3 topics using -(이)라고 생각해요", "Agree or disagree with these statements in Korean: '공부는 어렵다' / '한국 음식은 맛있다'", "Translate: 'I think Korean culture is very interesting. I think I will pass TOPIK.'"]},
+        {"day": 46, "topic": "Comparing Things", "vocabulary": [{"word": "비교하다", "romanization": "bigyo-hada", "meaning": "to compare"}, {"word": "더", "romanization": "deo", "meaning": "more"}, {"word": "제일 / 가장", "romanization": "jeil / gajang", "meaning": "most / the best"}, {"word": "보다", "romanization": "boda", "meaning": "than (comparison)"}, {"word": "같다", "romanization": "gatda", "meaning": "same"}], "grammar": {"pattern": "A보다 B가 더 (A is more than B)", "explanation": "B + 보다 + A + 가/이 + 더 + adjective = A is more [adj] than B.", "examples": [{"korean": "버스보다 지하철이 더 빨라요.", "meaning": "The subway is faster than the bus."}, {"korean": "여름보다 봄이 더 좋아요.", "meaning": "I like spring more than summer."}, {"korean": "한국어보다 영어가 더 쉬워요.", "meaning": "English is easier than Korean."}]}, "reading": {"title": "Which Is Better?", "text": "버스와 지하철 중에 뭐가 더 좋아요? 저는 지하철이 더 좋아요. 버스보다 빠르고 편해요. 하지만 버스가 더 싸요.", "translation": "Between bus and subway, which is better? I prefer the subway. It's faster and more comfortable than the bus. But the bus is cheaper."}, "homework": ["Compare 3 pairs of things using A보다 B가 더", "Use 제일/가장 to say what you like the most", "Translate: 'Summer is hotter than spring. Winter is the coldest season. I like autumn the most.'"]},
+        {"day": 47, "topic": "Talking About Experience", "vocabulary": [{"word": "경험", "romanization": "gyeongheom", "meaning": "experience"}, {"word": "처음", "romanization": "cheoeum", "meaning": "first time"}, {"word": "해보다", "romanization": "haeboda", "meaning": "to try doing"}, {"word": "가본 적 있다", "romanization": "gabon jeok itda", "meaning": "have been to"}, {"word": "먹어본 적 있다", "romanization": "meogebon jeok itda", "meaning": "have tried eating"}], "grammar": {"pattern": "-(으)ㄴ 적이 있어요/없어요 (have/haven't experienced)", "explanation": "Expresses past experience. Verb stem + -(으)ㄴ 적이 있어요/없어요.", "examples": [{"korean": "한국에 간 적이 있어요.", "meaning": "I have been to Korea."}, {"korean": "김치를 먹어본 적이 없어요.", "meaning": "I have never tried eating kimchi."}, {"korean": "한국어를 공부한 적이 있어요.", "meaning": "I have studied Korean before."}]}, "reading": {"title": "My Korean Experiences", "text": "저는 한국 음식을 먹어본 적이 있어요. 비빔밥이 제일 맛있었어요. 하지만 한국에 간 적은 없어요. 언젠가 꼭 가고 싶어요!", "translation": "I have tried eating Korean food before. Bibimbap was the most delicious. But I have never been to Korea. Someday I definitely want to go!"}, "homework": ["Write 5 experiences you have had and 3 you haven't", "Use -(으)ㄴ 적이 있어요/없어요 for each", "Translate: 'Have you been to Seoul? I have been there once. Have you tried tteokbokki? I haven't tried it yet.'"]},
+        {"day": 48, "topic": "Talking About Plans & Intentions", "vocabulary": [{"word": "예정이다", "romanization": "yejeong-ida", "meaning": "to be scheduled / planned"}, {"word": "준비하다", "romanization": "junbihada", "meaning": "to prepare"}, {"word": "목표", "romanization": "mokpyo", "meaning": "goal / target"}, {"word": "노력하다", "romanization": "noryeokhada", "meaning": "to make effort"}, {"word": "이루다", "romanization": "iruda", "meaning": "to achieve / accomplish"}], "grammar": {"pattern": "-(으)려고 해요 (intend to / plan to)", "explanation": "Expresses intention. Verb stem + -(으)려고 해요 = I intend to / I'm planning to.", "examples": [{"korean": "내년에 한국에 가려고 해요.", "meaning": "I'm planning to go to Korea next year."}, {"korean": "TOPIK에 합격하려고 열심히 공부해요.", "meaning": "I'm studying hard to pass TOPIK."}, {"korean": "내일 일찍 일어나려고 해요.", "meaning": "I intend to wake up early tomorrow."}]}, "reading": {"title": "My TOPIK Goals", "text": "저는 올해 TOPIK 1에 합격하려고 해요. 그래서 매일 한국어를 공부해요. 목표를 이루기 위해 열심히 노력할 거예요!", "translation": "I intend to pass TOPIK 1 this year. So I study Korean every day. I will work hard to achieve my goal!"}, "homework": ["Write 5 personal intentions/plans using -(으)려고 해요", "Write your Korean study goal in Korean", "Translate: 'I'm planning to take TOPIK next month. I intend to study vocabulary every day.'"]},
+        {"day": 49, "topic": "Week 7 Review & Advanced Practice", "vocabulary": [{"word": "발전하다", "romanization": "baljeonhada", "meaning": "to develop / advance"}, {"word": "계속", "romanization": "gyesok", "meaning": "continuously / keep on"}, {"word": "완성하다", "romanization": "wanseonghada", "meaning": "to complete"}, {"word": "성취", "romanization": "seongtui", "meaning": "achievement"}, {"word": "자랑스럽다", "romanization": "jarangseureopda", "meaning": "to be proud"}], "grammar": {"pattern": "Review: 에 vs 에서, counters, -(으)ㄴ 적, -(으)려고 해요, 보다 더", "explanation": "Full review of Unit 7 advanced patterns.", "examples": [{"korean": "도서관에서 공부한 적이 있어요?", "meaning": "Have you ever studied at the library?"}, {"korean": "버스보다 지하철로 가려고 해요.", "meaning": "I'm planning to take the subway rather than the bus."}, {"korean": "사과 세 개하고 물 두 병 주세요.", "meaning": "Please give me 3 apples and 2 bottles of water."}]}, "reading": {"title": "You're Almost There!", "text": "49일 동안 정말 열심히 했어요! 문법도 배웠고 어휘도 배웠어요. 이제 TOPIK 1 시험을 볼 준비가 거의 됐어요. 계속 노력하세요!", "translation": "You've worked really hard for 49 days! You've learned grammar and vocabulary. Now you are almost ready to take the TOPIK 1 exam. Keep working hard!"}, "homework": ["Full grammar quiz: use 10 different patterns in 10 sentences", "Vocabulary review: 50 random words from all units", "Write a paragraph about your Korean learning journey"]}
+      ]
+    },
+    {
+      "unit": 8,
+      "title": "Final Review & Mock Tests",
+      "days": [
+        {"day": 50, "topic": "Full Vocabulary Review — Units 1–4", "vocabulary": [{"word": "인사", "romanization": "insa", "meaning": "greeting"}, {"word": "방향", "romanization": "banghyang", "meaning": "direction"}, {"word": "식사", "romanization": "siksa", "meaning": "meal"}, {"word": "감정", "romanization": "gamjeong", "meaning": "emotion"}, {"word": "건강", "romanization": "geongang", "meaning": "health"}], "grammar": {"pattern": "Quick recall drill — all particles", "explanation": "은/는, 이/가, 을/를, 에, 에서, 로/으로, 도, 부터, 까지, 한테, 처럼 — practice using each one correctly.", "examples": [{"korean": "저는 학교에서 친구한테 한국어를 가르쳐 줘요.", "meaning": "I teach Korean to my friend at school."}, {"korean": "집에서 버스로 학교까지 가요.", "meaning": "I go from home to school by bus."}, {"korean": "오전 9시부터 오후 6시까지 일해요.", "meaning": "I work from 9 AM to 6 PM."}]}, "reading": {"title": "Review Passage 1", "text": "저는 매일 아침 여섯 시에 일어나요. 버스로 학교에 가요. 학교에서 한국어를 공부해요. 저녁에는 가족과 밥을 먹어요. 건강을 위해 운동도 해요.", "translation": "I wake up every morning at 6 AM. I go to school by bus. I study Korean at school. In the evening I eat with my family. I also exercise for my health."}, "homework": ["Translate the reading passage into your native language without looking", "Write a similar paragraph about yourself", "Review and test yourself on 60 vocabulary words from Units 1–4"]},
+        {"day": 51, "topic": "Full Vocabulary Review — Units 5–8", "vocabulary": [{"word": "대화", "romanization": "daehwa", "meaning": "conversation"}, {"word": "경험", "romanization": "gyeongheom", "meaning": "experience"}, {"word": "비교", "romanization": "bigyo", "meaning": "comparison"}, {"word": "준비", "romanization": "junbi", "meaning": "preparation"}, {"word": "목표", "romanization": "mokpyo", "meaning": "goal"}], "grammar": {"pattern": "Quick recall — all verb endings", "explanation": "아요/어요, 았/었어요, -(으)ㄹ 거예요, 아/어야 해요, -(으)ㄹ 수 있어요, -(으)려고 해요, -(으)ㄴ 적이 있어요", "examples": [{"korean": "어제 공부했어요. 오늘도 공부해요. 내일도 공부할 거예요.", "meaning": "I studied yesterday. I study today. I will study tomorrow too."}, {"korean": "TOPIK에 합격한 적이 있어요? 아직 없어요. 이번에 합격하려고 해요.", "meaning": "Have you passed TOPIK? Not yet. I'm planning to pass this time."}, {"korean": "열심히 공부해야 해요. 할 수 있어요!", "meaning": "I have to study hard. I can do it!"}]}, "reading": {"title": "Review Passage 2", "text": "저는 한국어를 6개월 공부했어요. 처음에는 어려웠어요. 하지만 꾸준히 공부했어요. 이제 한국 드라마를 조금 알아들을 수 있어요. TOPIK 1에 합격하려고 해요!", "translation": "I have studied Korean for 6 months. At first it was difficult. But I studied consistently. Now I can understand Korean dramas a little. I'm planning to pass TOPIK 1!"}, "homework": ["Review and test yourself on 60 vocabulary words from Units 5–8", "Write 5 sentences using different tenses and modalities", "Translate the reading passage without looking at the translation"]},
+        {"day": 52, "topic": "Mock Test 1 — Listening Focus", "vocabulary": [{"word": "청취", "romanization": "cheongtui", "meaning": "listening / auditory"}, {"word": "반복", "romanization": "banbbok", "meaning": "repetition"}, {"word": "집중", "romanization": "jipjung", "meaning": "concentration / focus"}, {"word": "속도", "romanization": "sokdo", "meaning": "speed"}, {"word": "정확하다", "romanization": "jeonghwakada", "meaning": "accurate / correct"}], "grammar": {"pattern": "Listening comprehension strategies", "explanation": "Focus on catching: WHO (누가), WHAT (무엇을), WHERE (어디서), WHEN (언제), WHY (왜), HOW (어떻게).", "examples": [{"korean": "누가 전화했어요? → 친구가 전화했어요.", "meaning": "Who called? → A friend called."}, {"korean": "어디서 만나요? → 카페에서 만나요.", "meaning": "Where do we meet? → We meet at the cafe."}, {"korean": "언제 출발해요? → 오후 두 시에 출발해요.", "meaning": "When do we leave? → We leave at 2 PM."}]}, "reading": {"title": "Listening Test Practice Script", "text": "남자: 내일 시간 있어요? 여자: 네, 있어요. 왜요? 남자: 같이 영화 볼까요? 여자: 좋아요! 몇 시에 만날까요? 남자: 오후 세 시 어때요?", "translation": "Man: Are you free tomorrow? Woman: Yes, I am. Why? Man: Shall we watch a movie together? Woman: Sounds good! What time shall we meet? Man: How about 3 PM?"}, "homework": ["Read the dialogue aloud 3 times and memorize it", "Answer: (1) What are they planning? (2) When will they meet? (3) Who suggested the activity?", "Find a TOPIK 1 sample listening audio online and practice"]},
+        {"day": 53, "topic": "Mock Test 2 — Reading Focus", "vocabulary": [{"word": "독해", "romanization": "dokhae", "meaning": "reading comprehension"}, {"word": "문맥", "romanization": "munmaek", "meaning": "context"}, {"word": "추론", "romanization": "churon", "meaning": "inference"}, {"word": "일치하다", "romanization": "ilchihada", "meaning": "to match / correspond"}, {"word": "틀리다", "romanization": "teullida", "meaning": "to be wrong / incorrect"}], "grammar": {"pattern": "TOPIK reading question strategies", "explanation": "For fill-in-blank: look at the surrounding context. For 'not matching': eliminate clearly wrong options. For main idea: look at the first and last sentences.", "examples": [{"korean": "저는 매일 운동해요. _____ 건강해요.", "meaning": "I exercise every day. _____ I am healthy. (Answer: 그래서/So)"}, {"korean": "비가 왔어요. _____ 우산을 가져왔어요.", "meaning": "It rained. _____ I brought an umbrella. (Answer: 그래서/So)"}, {"korean": "음식이 맛있어요. _____ 너무 비싸요.", "meaning": "The food is delicious. _____ it's too expensive. (Answer: 하지만/But)"}]}, "reading": {"title": "TOPIK Practice Passage", "text": "민지는 대학생이에요. 매일 아침 일찍 학교에 가요. 학교에서 열심히 공부해요. 저녁에는 아르바이트를 해요. 그래서 항상 바빠요. 하지만 행복해요.", "translation": "Minji is a university student. She goes to school early every morning. She studies hard at school. In the evening she works a part-time job. So she is always busy. But she is happy."}, "homework": ["Answer: (1) What does Minji do in the evening? (2) Why is she always busy? (3) Is she happy or sad?", "Find the connector words in the passage and explain why each is used", "Write a similar passage about your own life"]},
+        {"day": 54, "topic": "Weak Points Focus Day", "vocabulary": [{"word": "약점", "romanization": "yakjeom", "meaning": "weak point"}, {"word": "강점", "romanization": "gangjeom", "meaning": "strong point"}, {"word": "보완하다", "romanization": "bowanada", "meaning": "to supplement / complement"}, {"word": "집중하다", "romanization": "jipjungada", "meaning": "to focus / concentrate"}, {"word": "극복하다", "romanization": "geukbokhada", "meaning": "to overcome"}], "grammar": {"pattern": "Common TOPIK 1 grammar pitfalls", "explanation": "Review the most commonly confused patterns: 에 vs 에서, 이에요 vs 있어요, 안 vs 못, 은/는 vs 이/가.", "examples": [{"korean": "집에 있어요 (home location) vs 집에서 쉬어요 (action at home)", "meaning": "에 = where it IS, 에서 = where action HAPPENS"}, {"korean": "안 가요 (choice not to go) vs 못 가요 (unable to go)", "meaning": "안 = won't, 못 = can't"}, {"korean": "저는 학생이에요 (I AM a student) vs 학교에 있어요 (I am AT school)", "meaning": "이에요 = IS/AM (identity), 있어요 = at/have"}]}, "reading": {"title": "Grammar Pitfall Review", "text": "저는 지금 카페에 있어요. 카페에서 공부해요. 오늘 피곤해서 집에 가고 싶어요. 하지만 시험이 있어서 공부해야 해요. 안 피곤한 척해요!", "translation": "I am at the cafe right now. I am studying at the cafe. I'm tired today so I want to go home. But I have an exam so I have to study. I'm pretending not to be tired!"}, "homework": ["Write 3 example sentences for each confusing grammar pair above", "Identify and correct 5 intentional errors: '학교에서 있어요', '못 안 가요', '저는 학생이 있어요'", "Review your top 5 personal weak spots from this course"]},
+        {"day": 55, "topic": "Full Mock Test Day", "vocabulary": [{"word": "최선", "romanization": "choeseon", "meaning": "one's best"}, {"word": "긴장", "romanization": "ginjang", "meaning": "nervousness / tension"}, {"word": "침착하다", "romanization": "chimchakada", "meaning": "calm / composed"}, {"word": "시간 관리", "romanization": "sigan gwanli", "meaning": "time management"}, {"word": "자신있다", "romanization": "jasiniitda", "meaning": "confident"}], "grammar": {"pattern": "Full TOPIK 1 style exam practice", "explanation": "Today simulate a real TOPIK exam. Do your best within time limits.", "examples": [{"korean": "최선을 다하세요!", "meaning": "Do your best!"}, {"korean": "긴장하지 마세요. 할 수 있어요.", "meaning": "Don't be nervous. You can do it."}, {"korean": "침착하게 문제를 푸세요.", "meaning": "Solve the problems calmly."}]}, "reading": {"title": "Full Mock Reading Passage", "text": "제 친구 민수는 요리사예요. 매일 아침 일찍 일어나요. 시장에서 신선한 재료를 사요. 그리고 레스토랑에서 요리해요. 음식이 정말 맛있어요. 손님들이 아주 좋아해요.", "translation": "My friend Minsu is a chef. He wakes up early every morning. He buys fresh ingredients at the market. And he cooks at a restaurant. The food is really delicious. The customers like it very much."}, "homework": ["Full 30-question mock test: 15 vocabulary/grammar, 15 reading comprehension (write your own questions)", "Time yourself: aim to complete in 40 minutes", "Score yourself and note areas that need more review"]},
+        {"day": 56, "topic": "Review Mock Test Results", "vocabulary": [{"word": "오답", "romanization": "odap", "meaning": "wrong answer"}, {"word": "복습", "romanization": "bokseup", "meaning": "review"}, {"word": "분석하다", "romanization": "bunseokada", "meaning": "to analyze"}, {"word": "개선하다", "romanization": "gaeseonnada", "meaning": "to improve"}, {"word": "확인하다", "romanization": "hwagin-hada", "meaning": "to confirm / check"}], "grammar": {"pattern": "Error analysis and correction", "explanation": "Review each wrong answer from the mock test. Understand WHY it was wrong and write the correct version.", "examples": [{"korean": "Wrong: 학교에서 있어요. Right: 학교에 있어요.", "meaning": "Use 에 for location/existence, 에서 for actions."}, {"korean": "Wrong: 내일 먹었어요. Right: 내일 먹을 거예요.", "meaning": "Future events need future tense."}, {"korean": "Wrong: 음악이 좋아해요. Right: 음악을 좋아해요.", "meaning": "좋아하다 takes object marker 을/를."}]}, "reading": {"title": "Learning From Mistakes", "text": "시험에서 틀린 문제를 복습해요. 왜 틀렸는지 분석해요. 그리고 다시 공부해요. 실수에서 배우는 것이 중요해요. 다음에는 더 잘할 수 있어요!", "translation": "I review the questions I got wrong on the exam. I analyze why I got them wrong. Then I study again. It's important to learn from mistakes. Next time I can do even better!"}, "homework": ["Analyze every wrong answer from Mock Test (Day 55)", "Rewrite each wrong answer correctly with explanation", "Study the top 3 grammar points you struggled with most"]}
+      ]
+    },
+    {
+      "unit": 9,
+      "title": "Final Countdown",
+      "days": [
+        {"day": 57, "topic": "Essential Vocabulary Sprint — 50 Key Words", "vocabulary": [{"word": "아마", "romanization": "ama", "meaning": "probably / maybe"}, {"word": "이미", "romanization": "imi", "meaning": "already"}, {"word": "갑자기", "romanization": "gapjagi", "meaning": "suddenly"}, {"word": "보통", "romanization": "botong", "meaning": "usually / ordinary"}, {"word": "항상", "romanization": "hangsang", "meaning": "always"}], "grammar": {"pattern": "Frequency adverbs in context", "explanation": "항상 (always), 보통 (usually), 가끔 (sometimes), 자주 (often), 절대 (never) — master these for TOPIK.", "examples": [{"korean": "저는 항상 아침을 먹어요.", "meaning": "I always eat breakfast."}, {"korean": "가끔 늦게 자요.", "meaning": "I sometimes sleep late."}, {"korean": "절대 포기하지 않아요.", "meaning": "I never give up."}]}, "reading": {"title": "Daily Habits", "text": "저는 보통 일찍 일어나요. 항상 아침을 먹어요. 자주 한국어를 공부해요. 가끔 친구를 만나요. 절대 게임을 안 해요. (그건 거짓말이에요!)", "translation": "I usually wake up early. I always eat breakfast. I often study Korean. I sometimes meet friends. I never play games. (That's a lie!)"}, "homework": ["Write a paragraph about your habits using all 5 frequency adverbs", "Memorize the full list of 50 key TOPIK vocabulary words", "Test yourself: 50 flashcards, aim for 90% accuracy"]},
+        {"day": 58, "topic": "Grammar Sprint — Top 20 Patterns", "vocabulary": [{"word": "핵심", "romanization": "haeksim", "meaning": "core / key point"}, {"word": "구조", "romanization": "gujjo", "meaning": "structure"}, {"word": "패턴", "romanization": "paeteon", "meaning": "pattern"}, {"word": "응용하다", "romanization": "eungyonghada", "meaning": "to apply"}, {"word": "완벽하다", "romanization": "wanbyeokhada", "meaning": "perfect"}], "grammar": {"pattern": "Top 20 TOPIK 1 grammar patterns — speed review", "explanation": "1.이에요/예요 2.은/는 3.이/가 4.을/를 5.에 6.에서 7.아/어요 8.았/었어요 9.ㄹ/을 거예요 10.아/어야 해요 11.ㄹ/을 수 있어요 12.고 13.아/어서 14.(으)면 15.아/어 주세요 16.ㄹ/을까요 17.ㄴ 적이 있어요 18.(으)려고 해요 19.보다 더 20.ㄴ/는 것 같아요", "examples": [{"korean": "비가 와서 우산을 가져왔어요.", "meaning": "Because it rained, I brought an umbrella."}, {"korean": "한국에 간 적이 있으면 이야기해 주세요.", "meaning": "If you have been to Korea, please tell me."}, {"korean": "열심히 하면 합격할 수 있을 것 같아요.", "meaning": "If you work hard, I think you will be able to pass."}]}, "reading": {"title": "Final Grammar Check", "text": "오늘 모든 문법을 복습했어요. 어려운 것도 있었지만 이해할 수 있었어요. 내일부터 시험 준비를 완벽하게 할 거예요. 최선을 다할 것 같아요!", "translation": "Today I reviewed all the grammar. There were difficult things but I could understand them. From tomorrow I will prepare perfectly for the exam. I think I will do my best!"}, "homework": ["Write one sentence for each of the 20 grammar patterns above", "Time yourself: complete in under 30 minutes", "Highlight any patterns that felt uncertain and review them"]},
+        {"day": 59, "topic": "Final Full Mock Exam", "vocabulary": [{"word": "수고하다", "romanization": "sugohada", "meaning": "to work hard / well done"}, {"word": "마치다", "romanization": "machida", "meaning": "to finish"}, {"word": "달성하다", "romanization": "dalseongada", "meaning": "to achieve"}, {"word": "뿌듯하다", "romanization": "ppudeuteuda", "meaning": "to feel proud / fulfilling"}, {"word": "도전하다", "romanization": "dojeonhada", "meaning": "to challenge"}], "grammar": {"pattern": "Full TOPIK 1 format simulation", "explanation": "TOPIK 1 has 2 sections: Listening (30 questions, 40 min) and Reading (40 questions, 60 min). Score 80+ to pass Level 1, 140+ for Level 2.", "examples": [{"korean": "듣기: 30문제, 40분", "meaning": "Listening: 30 questions, 40 minutes"}, {"korean": "읽기: 40문제, 60분", "meaning": "Reading: 40 questions, 60 minutes"}, {"korean": "합격: 1급 80점+, 2급 140점+", "meaning": "Pass: Level 1 = 80+ points, Level 2 = 140+ points"}]}, "reading": {"title": "Exam Day Advice", "text": "내일 시험이에요! 오늘 밤 충분히 자세요. 아침을 꼭 드세요. 시험장에 일찍 도착하세요. 침착하게 문제를 푸세요. 수고했어요. 합격할 수 있어요!", "translation": "The exam is tomorrow! Sleep enough tonight. Be sure to eat breakfast. Arrive at the exam hall early. Solve questions calmly. Well done. You can pass!"}, "homework": ["Complete a full simulated TOPIK 1 exam (use official past papers if available)", "Sleep early tonight!", "Review test-taking strategies one more time"]},
+        {"day": 60, "topic": "Course Completion & Celebration!", "vocabulary": [{"word": "축하합니다", "romanization": "chukahamnida", "meaning": "Congratulations!"}, {"word": "완료", "romanization": "wanyo", "meaning": "completion"}, {"word": "성장", "romanization": "seongjanng", "meaning": "growth"}, {"word": "감사하다", "romanization": "gamsahada", "meaning": "to be grateful"}, {"word": "앞으로도", "romanization": "apeuroodo", "meaning": "from now on / going forward"}], "grammar": {"pattern": "Final comprehensive review — everything", "explanation": "Today celebrate your achievement! You've covered all TOPIK 1 content. Review whatever feels weakest.", "examples": [{"korean": "60일 동안 정말 수고했어요!", "meaning": "You worked really hard for 60 days!"}, {"korean": "한국어 실력이 많이 향상됐을 거예요.", "meaning": "Your Korean skills must have improved a lot."}, {"korean": "앞으로도 계속 공부하세요. 화이팅!", "meaning": "Keep studying from now on. Fighting!"}]}, "reading": {"title": "🎉 Congratulations! 🎉", "text": "축하합니다! 60일 동안 정말 열심히 공부했어요. 처음에는 어려웠지만 끝까지 했어요. 정말 대단해요! 이제 TOPIK 1 시험을 볼 준비가 됐어요. 자신감을 가지세요. 할 수 있어요! 앞으로도 한국어 공부를 계속하세요. 화이팅! 🇰🇷", "translation": "Congratulations! You studied really hard for 60 days. At first it was difficult but you made it to the end. That's truly amazing! Now you are ready to take the TOPIK 1 exam. Have confidence. You can do it! Keep studying Korean going forward. Fighting! 🇰🇷"}, "homework": ["Write a letter to yourself about your Korean learning journey", "List 10 things you can now say in Korean that you couldn't on Day 1", "Plan your next Korean learning goal: TOPIK 2? Korean drama without subtitles? A trip to Korea?"]}
+      ]
+    }
+  ]
+}
