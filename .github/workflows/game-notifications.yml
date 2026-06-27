@@ -1,0 +1,38 @@
+name: Free Game Notifications
+
+on:
+  schedule:
+    # Runs daily at 18:00 UTC (Epic drops new games on Thursdays ~11:00 ET / 16:00 UTC)
+    - cron: '0 18 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Check and send free game notifications
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: node scripts/send_game_notifications.js
+
+      - name: Commit updated cache
+        run: |
+          git config --global user.name 'Game Notify Bot'
+          git config --global user.email 'game-notify-bot@users.noreply.github.com'
+          git add game_cache.json
+          git diff --staged --quiet || git commit -m "chore: update free games cache"
+          git push
